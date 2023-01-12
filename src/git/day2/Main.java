@@ -7,4 +7,8 @@ public class Main {
 		System.out.println("Virginia is for lovers");
 	}
 
+	 public static void addtwoNumber(int a, int b) {
+		 
+		 System.out.println(a+b);
+	 }
 }
